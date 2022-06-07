@@ -45,7 +45,7 @@ class WalletCardView extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            "Ridy Wallet",
+            "Carteira do Rapidinho",
             style: Theme.of(context)
                 .textTheme
                 .headlineMedium
@@ -93,7 +93,7 @@ class WalletCardView extends StatelessWidget {
                       ),
                       const SizedBox(width: 4),
                       Text(
-                        "Add Credit",
+                        "Adicionar Crédito",
                         style: Theme.of(context)
                             .textTheme
                             .titleMedium
