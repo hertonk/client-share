@@ -24,7 +24,7 @@ class RidyBackButton extends StatelessWidget {
         Padding(
           padding: const EdgeInsets.only(top: 4, left: 16),
           child: Text(
-            'Back',
+            'Voltar',
             style: TextStyle(color: CustomTheme.neutralColors.shade800),
           ),
         )
