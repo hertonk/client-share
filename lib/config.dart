@@ -13,8 +13,6 @@ String mapBoxAccessToken =
 String mapBoxUserId = "mapbox";
 String mapBoxTileSetId = "streets-v11";
 
-String loginTermsAndConditionsUrl = "";
-
 String defaultCurrency = "BRL";
 String defaultCountryCode = "+55";
 const List<double> tipPresets = [10, 20, 50];
