@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   google_fonts: ^2.3.1
-  flutter_map: ^0.14.0
+  flutter_map: ^3.0.0
   flutter_vector_icons: ^1.0.0
   shimmer: ^2.0.0
   flutter_localizations:
