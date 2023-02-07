@@ -9,7 +9,7 @@ MapProvider mapProvider = MapProvider.mapBox;
 
 // MapBox Configuration (Only if Map Provider is set to mapBox)
 String mapBoxAccessToken =
-    "sk.eyJ1IjoibWluaW1hbGlzdGljLWFwcHMiLCJhIjoiY2t3cWdtMmthMG1rcjJ2bnJtbms1c3gwdyJ9.O6U7-pbHZZzMRUE3nHsyhg";
+    "pk.eyJ1IjoiYXBwcmFwaWRpbmhvIiwiYSI6ImNsZHVkdzk3czA0djQzdnBpYmN1eTlxbGwifQ.UVLrbYQkMULYpJQLRwOwaQ";
 String mapBoxUserId = "mapbox";
 String mapBoxTileSetId = "streets-v11";
 
