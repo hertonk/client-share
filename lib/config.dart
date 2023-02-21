@@ -1,7 +1,7 @@
 import './map_providers.dart';
 import 'package:latlong2/latlong.dart';
 
-String serverIP = "161.35.225.172";
+String serverIP = "137.184.113.205";
 
 bool demoMode = false;
 String companyName = "Rapidinho";
